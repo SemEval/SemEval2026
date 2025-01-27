@@ -81,4 +81,4 @@ General questions about SemEval organization should be directed to <semevalorgan
 SemEval highly values the open exchange of ideas, freedom of thought and expression, and respectful scientific debate.
 We support and uphold the [ACL Anti-Harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy).
 Participants are encouraged to send any concerns or questions to the [Professional Conduct Committee](https://www.aclweb.org/adminwiki/index.php?title=Professional_Conduct_Committee),
-[Priscilla Rasmussen](mailto:acl@aclweb.org) and/or the workshop organizers.
+[Jenn Rachford](mailto:acl@aclweb.org) and/or the workshop organizers.
