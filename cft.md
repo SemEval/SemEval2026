@@ -27,12 +27,6 @@ a) avoid personally identifiable information (PII). Tasks aimed at identifying s
  b) avoid medical decision making (compliance with HIPAA, do not try to replace medical professionals, especially if it has anything to do with mental health)
 c) these are representative and not exhaustive
 
-### Roles
-
-- Lead Organizer - main point of contact, expected to ensure deliverables are met on time and participate in contributing to task duties (see below).
-- Co-Organizers - provide significant contributions to ensuring the task runs smoothly. Some examples include, maintaining communication with task participants, preparing data, creating and running evaluation scripts, leading paper reviewing and acceptance. 
-- Advisory Organizers - more of a supervisor role, may not contribute to detailed tasks but will provide guidance and support.
-
 ## New Tasks vs. Task Reruns
 
 We welcome both new tasks and task reruns. For a new task, the proposal should address whether the task would be able to attract participants. Preference will be given to novel tasks that have not received much attention yet.
@@ -54,6 +48,12 @@ We welcome people who have never organized a SemEval task before, as well as tho
 - Write a task description paper to be included in SemEval proceedings, and present it at the workshop.
 - Manage participants’ submissions of system description papers, manage participants’ peer review of each others’ papers, and possibly shepherd papers that need additional help in improving the writing.
 - Review other task description papers.
+
+## Roles
+
+- Lead Organizer - main point of contact, expected to ensure deliverables are met on time and participate in contributing to task duties (see below).
+- Co-Organizers - provide significant contributions to ensuring the task runs smoothly. Some examples include, maintaining communication with task participants, preparing data, creating and running evaluation scripts, leading paper reviewing and acceptance. 
+- Advisory Organizers - more of a supervisor role, may not contribute to detailed tasks but will provide guidance and support.
 
 ## Desk Rejects
 
@@ -117,6 +117,7 @@ Each proposal should contain the following:
   - Expected impact of the rerun compared with the previous iteration
 - Task organizers
   - Names, affiliations, email addresses
+  - Role of each organizer (see [Roles](#roles))
   - (optional) brief description of relevant experience or expertise
   - (if applicable) years and task numbers, of any SemEval tasks you have run in the past
 
