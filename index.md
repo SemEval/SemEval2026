@@ -9,7 +9,7 @@ Welcome to the [SemEval](https://semeval.github.io/)-2026 homepage!
 ### Important dates
 
 - Task proposals due 31 March 2025 ([Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth))
-- Task selection notification 19 May 2025
+- Task selection notification ~19~ 21 May 2025
 
 The submission webpage is: [SemEval2026 Task Proposal Submission](https://softconf.com/acl2025/semevaltasks/)
 
