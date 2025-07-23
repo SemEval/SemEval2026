@@ -55,7 +55,7 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 - [Sara Rosenthal](https://research.ibm.com/people/sara-rosenthal), IBM Research AI, USA
 - [Aiala Rosá](https://www.fing.edu.uy/es/node/40946), Universidad de la República - Uruguay
 - [Marcos Zampieri](https://www.gmu.edu/profiles/mzampier), George Mason University, USA
-- [Debanjan Ghosh](https://www.ets.org/research/author-bio/Ghosh-Debanjan.html), Educational Testing Service 
+- [Debanjan Ghosh](https://debanjanghosh.github.io), Analog Devices, USA
 
 ### Resources
 
