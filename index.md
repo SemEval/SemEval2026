@@ -13,7 +13,7 @@ Welcome to the [SemEval](https://semeval.github.io/)-2026 homepage!
 
 The submission webpage is: [SemEval2026 Task Proposal Submission](https://softconf.com/acl2025/semevaltasks/)
 
- <!-- ## [SemEval-2025 tasks](tasks) -->
+## [SemEval-2025 tasks](tasks) 
 
 <!---
 ### [SemEval-2025 program](schedule)
