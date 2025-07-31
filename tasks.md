@@ -72,22 +72,22 @@ Websites and contact information for individual tasks will be given below soon.
 ### Emerging LLMs
 
 - **[Task 11: Disentangling Content and Formal Reasoning in Large Language Models](https://sites.google.com/view/semeval-2026-task-11)**
- <!--   ([[contact organizers]](mailto:emotion-semeval-2025-organisers@googlegroups.com),
-  [[join task mailing list]](mailto:emotion-semeval-2025-participants@googlegroups.com))<br>
-  Shamsuddeen Hassan Muhammad, Seid Muhie Yimam, Nedjma OUSIDHOUM, Idris Abdulmumin, Ibrahim Said Ahmad, Alham Fikri Aji, David Ifeoluwa Adelani, Vladimir Araujo, Abinew Ali Ayele, Tadesse Destaw Belay, Daniela Teodorescu, Jan Philip Wahle, Terry Ruas, Nirmal Surange, Yi Zhou
--->
+    ([[contact organizers]](mailto:semeval2026task11@gmail.com),
+  [[join task mailing list]](mailto:))<br>
+ Marco Valentino, Leonardo Ranaldi, Giulia Pucci, Federico Ranaldi and André Freitas 
+
 
 - **[Task 12: Abductive Event Reasoning: Towards Real-World Event Causal Inference for Large Language Models](https://sites.google.com/view/semeval2026-task12/)**
- <!--   ([[contact organizers]](mailto:emotion-semeval-2025-organisers@googlegroups.com),
-  [[join task mailing list]](mailto:emotion-semeval-2025-participants@googlegroups.com))<br>
-  Shamsuddeen Hassan Muhammad, Seid Muhie Yimam, Nedjma OUSIDHOUM, Idris Abdulmumin, Ibrahim Said Ahmad, Alham Fikri Aji, David Ifeoluwa Adelani, Vladimir Araujo, Abinew Ali Ayele, Tadesse Destaw Belay, Daniela Teodorescu, Jan Philip Wahle, Terry Ruas, Nirmal Surange, Yi Zhou
--->
+    ([[contact organizers]](mailto:yangmingxuan2025@ia.ac.cn),
+  [[join task mailing list]](https://groups.google.com/g/semeval2026-task12))<br>
+ Pengfei Cao, Yubo Chen, Mingxuan Yang, Chenlong Zhang, Mingxuan Liu, Kang Liu and Jun Zhao 
+
 
 - **[Task 13: Detecting Machine-Generated Code with Multiple Programming Languages, Generators, and Application Scenarios](https://github.com/mbzuai-nlp/SemEval-2026-Task13)**
- <!--   ([[contact organizers]](mailto:emotion-semeval-2025-organisers@googlegroups.com),
-  [[join task mailing list]](mailto:emotion-semeval-2025-participants@googlegroups.com))<br>
-  Shamsuddeen Hassan Muhammad, Seid Muhie Yimam, Nedjma OUSIDHOUM, Idris Abdulmumin, Ibrahim Said Ahmad, Alham Fikri Aji, David Ifeoluwa Adelani, Vladimir Araujo, Abinew Ali Ayele, Tadesse Destaw Belay, Daniela Teodorescu, Jan Philip Wahle, Terry Ruas, Nirmal Surange, Yi Zhou
--->
+    ([[contact organizers]](mailto:Dilshod.Azizov@mbzuai.ac.ae),
+  [[join task mailing list]](mailto:semeval2026-task13@googlegroups.com))<br>
+  Daniil Orel, Dilshod Azizov, Indraneil Paul, Yuxia Wang, Iryna Gurevych and Preslav Nakov 
+
 
 
 
