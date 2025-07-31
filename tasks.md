@@ -60,14 +60,14 @@ Websites and contact information for individual tasks will be given below soon.
 ### Discourse and Argumentation
 
 - **[Task 9: Detecting Multilingual, Multicultural and Multievent Online Polarization](https://polar-semeval.github.io/)**
- <!--   ([[contact organizers]](mailto:food-hazard-detection-semeval-2025@googlegroups.com),
-  [[join task mailing list]](https://groups.google.com/g/food-hazard-detection-semeval-2025-participants))<br>
-  Korbinian Randl, George Marinos, John Pavlopoulos, Aron Henriksson, Tony Lindgren, Manos Karvounis -->
+    ([[contact organizers]](mailto:polarization-semeval-2026-organisers@googlegroups.com),
+  [[join task mailing list]](mailto:polarization-semeval-2026-participants@googlegroups.com))<br>
+  Usman Naseem, Seid Muhie Yimam, Robert Geislinger, Shamsuddeen Hassan Muhammad, Sarah Kohail, Juan Ren, Rudy Alexandro Garrido Veliz, Saba Anwar, Ibrahim Said Ahmad, Idris Abdulmumin, Abinew Ali Ayele, Adem Chanie Ali, Martin Semmann and Chris Biemann 
 
 - **[Task 10: PsyCoMark -- Psycholinguistic Conspiracy Marker Extraction and Detection](https://hide-ous.github.io/semeval2026-psycomark)**
- <!--   ([[contact organizers]](mailto:semeval2025narratives-task@googlegroups.com),
-  [[join task mailing list]](mailto:semeval2025narratives-task-participants@googlegroups.com))<br>
-  Jakub Piskorski, Giovanni Da San Martino, Preslav Nakov, Tarek Mahmoud, Tanmoy Chakraborty, Shivam Sharma, Roman Yangarber, Ion Androutsopoulos, John Pavlopoulos, Nikolaos Nikolaidis, Ricardo Campos, Alipio Jorge, Dimitar Iliyanov Dimitrov, Ivan Koychev -->
+    ([[contact organizers]](mailto:semeval2026-task10-organizers@googlegroups.com),
+  [[join task mailing list]](mailto:semeval2026-task10-organizers@googlegroups.com))<br>
+  Mattia Samory, Felix Soldner and Veronika Batzdorfer  
 
 ### Emerging LLMs
 
