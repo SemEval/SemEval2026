@@ -15,14 +15,14 @@ Websites and contact information for individual tasks will be given below soon.
   Santiago Castro, Ignacio Sastre, J. A. Meaney, Luis Chiruzzo, Naihao Deng, Rada Mihalcea, Salar Rahili, Santiago Góngora, Aiala Rosá, Guillermo Moncecchi and Juan José Prada 
 
 - **[Task 2: Predicting Variation in Emotional Valence and Arousal over Time from Ecological Essays](https://semeval2026task2.github.io/SemEval-2026-Task2/)**
-<!--  ([[contact organizers]],
-  [[join task mailing list]](https://groups.google.com/a/uniroma1.it/g/semeval-2025-task-2-ea-mt))<br>
-  Simone Conia, Min Li, Roberto Navigli, Saloni Potdar -->
+  ([[contact organizers]](mailto:semeval2026task2@googlegroups.com),
+  [[join task mailing list]]))<br>
+  Nikita Soni, H. Andrew Schwartz, Ryan L. Boyd, Tony Bui, Syeda Mahwish, August Håkan Nilsson, Adithya V Ganesan, Lyle Ungar, Niranjan Balasubramanian and Saif M. Mohammad 
   
 - **[Task 3: SemEval-2026 Task Proposal: Dimensional Aspect-Based Sentiment Analysis (dimABSA)](https://github.com/DimABSA/DimABSA2026)**
-<!--  ([[contact organizers]]@uniroma1.it),
-  [[join task mailing list]](https://groups.google.com/a/uniroma1.it/g/semeval-2025-task-2-ea-mt))<br>
-  Simone Conia, Min Li, Roberto Navigli, Saloni Potdar -->
+  ([[contact organizers]](semeval2026-task5-organizers@googlegroups.com),
+  [[join task mailing list]](semeval2026-task5-participants@googlegroups.com))<br>
+  Janosch Gehring and Michael Roth 
 
 ### Narrative 
 
