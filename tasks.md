@@ -19,23 +19,23 @@ Websites and contact information for individual tasks will be given below soon.
   [[join task mailing list]]))<br>
   Nikita Soni, H. Andrew Schwartz, Ryan L. Boyd, Tony Bui, Syeda Mahwish, August Håkan Nilsson, Adithya V Ganesan, Lyle Ungar, Niranjan Balasubramanian and Saif M. Mohammad 
   
-- **[Task 3: SemEval-2026 Task Proposal: Dimensional Aspect-Based Sentiment Analysis (dimABSA)](https://github.com/DimABSA/DimABSA2026)**
-  ([[contact organizers]](semeval2026-task5-organizers@googlegroups.com),
-  [[join task mailing list]](semeval2026-task5-participants@googlegroups.com))<br>
-  Janosch Gehring and Michael Roth 
+- **[Task 3: SemEval-2026 Task Proposal: Dimensional Aspect-Based Sentiment Analysis (DimABSA)](https://github.com/DimABSA/DimABSA2026)**
+  ([[contact organizers]](mailto:dimabsa-organizers@googlegroups.com),
+  [[join task mailing list]](mailto:dimabsa-participants@googlegroups.com))<br>
+  Liang-Chih Yu, Lung-Hao Lee, Jin Wang, Jan Philip Wahle, Terry Ruas, Kai-Wei Chang, Shamsuddeen Hassan Muhammad and Saif M. Mohammad 
 
 ### Narrative 
 
 - **[Task 4: Narrative Story Similarity and Narrative Representation Learning](http://narrative-similarity-task.github.io/)**
-<!--  ([[contact organizers]](mailto:llm-unlearning-semeval2025@googlegroups.com),
-  [[join task mailing list]](mailto:llm-unlearning-semeval2025@googlegroups.com))<br>
-  Anil Ramakrishna, Kai-Wei Chang, Rahul Gupta, Volkan Cevher, Bhanu Vinzamuri, He Xie, Venkatesh Elango, Zhiqi Bu -->
+  ([[contact organizers]](mailto:narrative-similarity-task-organizers@googlegroups.com),
+  [[join task mailing list]](mailto:narrative-similarity-task@googlegroups.com))<br>
+  Hans Ole Hatzel, Ekaterina Artemova, Haimo Stiemer, Natalia Fedorova, Evelyn Gius and Chris Biemann 
 
 
 - **[Task 5: Rating Plausibility of Word Senses in Ambiguous Sentences through Narrative Understanding](https://nlu-lab.github.io/semeval.html)**
-<!--  ([[contact organizers]](mailto:timothee.mickus@helsinki.fi),
-  [[join task mailing list]](https://groups.google.com/g/semeval-2025-task-3-mu-shroom))<br>
-  Timothee Mickus, Elaine Zosa, Raúl Vázquez, Teemu Vahtola, Jörg Tiedemann, Vincent Segonne, Alessandro Raganato, Shaoxiong Ji, Jussi Karlgren, Marianna Apidianaki -->
+  ([[contact organizers]](mailto:semeval2026-task5-organizers@googlegroups.com),
+  [[join task mailing list]](mailto:semeval2026-task5-participants@googlegroups.com))<br>
+  Janosch Gehring and Michael Roth 
 
 ### QA and Conversations
 
