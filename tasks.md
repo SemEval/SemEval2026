@@ -9,12 +9,12 @@ Websites and contact information for individual tasks will be given below soon.
 
 ### Sentiment and Emotion
 
-- **[Task 1: Humor Generation]**
+- **[Task 1: Humor Generation](https://pln-fing-udelar.github.io/semeval-2026-humor-gen/)**
 <!--  ([[contact organizers]](mailto:semeval-2025-multimodal-idiomaticity@googlegroups.com),
   [[join task mailing list]](mailto:admire-semeval-2025@googlegroups.com))<br>
   Thomas Pickard, Aline Villavicencio, Maggie Mi, Wei He, Carolina Scarton, Marco Idiart -->
 
-- **[Task 2: Predicting Variation in Emotional Valence and Arousal over Time from Ecological Essays]**
+- **[Task 2: Predicting Variation in Emotional Valence and Arousal over Time from Ecological Essays](https://semeval2026task2.github.io/SemEval-2026-Task2/)**
 <!--  ([[contact organizers]],
   [[join task mailing list]](https://groups.google.com/a/uniroma1.it/g/semeval-2025-task-2-ea-mt))<br>
   Simone Conia, Min Li, Roberto Navigli, Saloni Potdar -->
