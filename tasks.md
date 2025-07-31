@@ -11,7 +11,7 @@ Websites and contact information for individual tasks will be given below soon.
 
 - **[Task 1: Humor Generation](https://pln-fing-udelar.github.io/semeval-2026-humor-gen/)**
   ([[contact organizers]](mailto:semeval-2026-task-1-humor-gen-organizers@googlegroups.com),
-  [[join task mailing list]](mailto:https://groups.google.com/g/semeval-2026-task-1-humor-gen))<br>
+  [[join task mailing list]](https://groups.google.com/g/semeval-2026-task-1-humor-gen))<br>
   Santiago Castro, Ignacio Sastre, J. A. Meaney, Luis Chiruzzo, Naihao Deng, Rada Mihalcea, Salar Rahili, Santiago Góngora, Aiala Rosá, Guillermo Moncecchi and Juan José Prada 
 
 - **[Task 2: Predicting Variation in Emotional Valence and Arousal over Time from Ecological Essays](https://semeval2026task2.github.io/SemEval-2026-Task2/)**
@@ -41,20 +41,20 @@ Websites and contact information for individual tasks will be given below soon.
 
 
 - **[Task 6: CLARITY - Unmasking Political Question Evasions](https://konstantinosftw.github.io/CLARITY-SemEval-2026/)**
-<!--   ([[contact organizers]](mailto:llms4subjects@gmail.com),
-  [[join task mailing list]](mailto:llms4subjects@googlegroups.com))<br>
-  Jennifer D'Souza, Mathias Begoin, Holger Israel, Berrit Genat, Sören Auer -->
+   ([[contact organizers]](mailto:kthomas@islab.ntua.gr),
+  [[join task mailing list]](mailto:clarity---unmasking-political-question-evasions@googlegroups.com))<br>
+  Konstantinos Thomas, George Filandrianos, Maria Lymperaiou, Chrysoula Zerva and Giorgos Stamou 
 
 
 - **[Task 7: Everyday Knowledge Across Diverse Languages and Cultures]( https://junhomyung.github.io/BLEnD/)**
-<!--   ([[contact organizers]](mailto:c.c.chen@acm.org),
-  [[join task mailing list]](https://groups.google.com/g/promiseeval))<br>
-  Chung-Chi Chen, Juyeon Kang, Hanwool Lee, Yohei Seki, Min-Yuh Day, Hiroya Takamura -->
+   ([[contact organizers]](mailto:semeval-2026-blend-organisers@googlegroups.com),
+  [[join task mailing list]](mailto:semeval2026-task-7-blend-participants@googlegroups.com))<br>
+  Nedjma Ousidhoum, Junho Myung, Jiho Jin, Yi Zhou, Jose Camacho-Collados, Alice Oh, Vladimir Araujo, Chenyang Lyu, Joanne Boisson, Aleksandra Edwards, Meriem Beloucif, Christine de Kock, Joseph Marvin Imperial, Amr Keleg, Huda Hakami, Asahi Ushio, Shu-Kai HSIEH, Younes Samih, Pintu Lohar, Mohamed Fazli Mohamed Imam, Nureman Sateemae, Roy Ka-Wei Lee, Bryan Chen Zhengyu Tan, Weihua Zheng and James Barry  
 
 - **[Task 8: Evaluating Multi-Turn RAG Conversations](https://ibm.github.io/mt-rag-benchmark/MTRAGEval/)**
-<!--   ([[contact organizers]](mailto:semeval@disai.eu),
-  [[join task mailing list]](mailto:semeval2025-task7@googlegroups.com))<br>
-  Qiwei Peng, Michal Gregor, Ivan Srba, Simon Ostermann, Marian Simko, Juraj Podroužek, Matúš Mesarčík, Jaroslav Kopčan -->
+   ([[contact organizers]](mailto:sjrosenthal@us.ibm.com),
+  [[join task mailing list]](https://groups.google.com/g/mtrageval))<br>
+  Sara Rosenthal, Yannis Katsis, Vraj Shah and Marina Danilevsky  
 
   
 ### Discourse and Argumentation
