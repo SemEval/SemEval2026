@@ -16,7 +16,7 @@ Websites and contact information for individual tasks will be given below soon.
 
 - **[Task 2: Predicting Variation in Emotional Valence and Arousal over Time from Ecological Essays](https://semeval2026task2.github.io/SemEval-2026-Task2/)**
   ([[contact organizers]](mailto:semeval2026task2@googlegroups.com),
-  [[join task mailing list]]))<br>
+  [[join task mailing list]](mailto:))<br>
   Nikita Soni, H. Andrew Schwartz, Ryan L. Boyd, Tony Bui, Syeda Mahwish, August Håkan Nilsson, Adithya V Ganesan, Lyle Ungar, Niranjan Balasubramanian and Saif M. Mohammad 
   
 - **[Task 3: SemEval-2026 Task Proposal: Dimensional Aspect-Based Sentiment Analysis (DimABSA)](https://github.com/DimABSA/DimABSA2026)**
@@ -66,7 +66,7 @@ Websites and contact information for individual tasks will be given below soon.
 
 - **[Task 10: PsyCoMark -- Psycholinguistic Conspiracy Marker Extraction and Detection](https://hide-ous.github.io/semeval2026-psycomark)**
     ([[contact organizers]](mailto:semeval2026-task10-organizers@googlegroups.com),
-  [[join task mailing list]](mailto:semeval2026-task10-organizers@googlegroups.com))<br>
+  [[join task mailing list]](mailto:semeval2026-task10-participants@googlegroups.com))<br>
   Mattia Samory, Felix Soldner and Veronika Batzdorfer  
 
 ### Emerging LLMs
