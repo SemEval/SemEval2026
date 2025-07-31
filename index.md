@@ -4,8 +4,9 @@ title: SemEval-2026
 
 Welcome to the [SemEval](https://semeval.github.io/)-2026 homepage!
 
+<!--
 ## [SemEval-2026 call for task proposals](cft)
-
+--->
 ### Important dates
 
 - Task proposals due 31 March 2025 ([Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth))

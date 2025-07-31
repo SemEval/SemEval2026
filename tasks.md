@@ -51,7 +51,7 @@ Websites and contact information for individual tasks will be given below soon.
   [[join task mailing list]](mailto:semeval2026-task-7-blend-participants@googlegroups.com))<br>
   Nedjma Ousidhoum, Junho Myung, Jiho Jin, Yi Zhou, Jose Camacho-Collados, Alice Oh, Vladimir Araujo, Chenyang Lyu, Joanne Boisson, Aleksandra Edwards, Meriem Beloucif, Christine de Kock, Joseph Marvin Imperial, Amr Keleg, Huda Hakami, Asahi Ushio, Shu-Kai HSIEH, Younes Samih, Pintu Lohar, Mohamed Fazli Mohamed Imam, Nureman Sateemae, Roy Ka-Wei Lee, Bryan Chen Zhengyu Tan, Weihua Zheng and James Barry  
 
-- **[Task 8: Evaluating Multi-Turn RAG Conversations](https://ibm.github.io/mt-rag-benchmark/MTRAGEval/)**
+- **[Task 8: MTRAGEval: Evaluating Multi-Turn RAG Conversations](https://ibm.github.io/mt-rag-benchmark/MTRAGEval/)**
    ([[contact organizers]](mailto:sjrosenthal@us.ibm.com),
   [[join task mailing list]](https://groups.google.com/g/mtrageval))<br>
   Sara Rosenthal, Yannis Katsis, Vraj Shah and Marina Danilevsky  
