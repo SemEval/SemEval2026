@@ -53,11 +53,10 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 
 ### Organizers
 
-- [Sara Rosenthal](https://research.ibm.com/people/sara-rosenthal), IBM Research AI, USA
-- [Aiala Rosá](https://www.fing.edu.uy/es/node/40946), Universidad de la República - Uruguay
 - [Marcos Zampieri](https://www.gmu.edu/profiles/mzampier), George Mason University, USA
 - [Debanjan Ghosh](https://debanjanghosh.github.io), Analog Devices, USA
-
+- [Kai North], Cambium Assessment, USA
+- [Shervin Malmasi], Amazon Inc., USA
 ### Resources
 
 - [Frequently Asked Questions about SemEval](/faq.html)
