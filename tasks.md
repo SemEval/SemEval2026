@@ -22,7 +22,7 @@ Websites and contact information for individual tasks will be given below soon.
 - **[Task 3: SemEval-2026 Task Proposal: Dimensional Aspect-Based Sentiment Analysis (DimABSA)](https://github.com/DimABSA/DimABSA2026)**
   ([[contact organizers]](mailto:dimabsa-organizers@googlegroups.com),
   [[join task mailing list]](mailto:dimabsa-participants@googlegroups.com))<br>
-  Liang-Chih Yu, Lung-Hao Lee, Jin Wang, Jan Philip Wahle, Terry Ruas, Kai-Wei Chang, Shamsuddeen Hassan Muhammad and Saif M. Mohammad 
+  Liang-Chih Yu, Shamsuddeen Hassan Muhammad, Lung-Hao Lee, Jin Wang, Jan Philip Wahle, Terry Ruas, Kai-Wei Chang and Saif M. Mohammad 
 
 ### Narrative 
 
