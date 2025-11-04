@@ -11,9 +11,19 @@ Welcome to the [SemEval](https://semeval.github.io/)-2026 homepage!
 --->
 ### Important dates for task participants
 
+- ~~Task selection notification ~19~ 21 May 2025~~
+- ~~Training Data Ready 2 September 2025~~
+- Evaluation Start [TBD]
+
+All deadlines are 23:59 UTC-12 ("anywhere on Earth").
+
+### Important dates for task organizers
+
 - ~~Task proposals due 31 March 2025 ([Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth))~~
 - ~~Task selection notification ~19~ 21 May 2025~~
 - ~~Training Data Ready 2 September 2025~~
+- Evaluation data ready (TBD; internal deadline, not for public release)
+- Evaluation start [TBD]
 
 All deadlines are 23:59 UTC-12 ("anywhere on Earth").
 
