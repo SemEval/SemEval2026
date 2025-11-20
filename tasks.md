@@ -19,7 +19,7 @@ Websites and contact information for individual tasks will be given below soon.
   [[join task mailing list]](mailto:))<br>
   Nikita Soni, H. Andrew Schwartz, Ryan L. Boyd, Tony Bui, Syeda Mahwish, August Håkan Nilsson, Adithya V Ganesan, Lyle Ungar, Niranjan Balasubramanian and Saif M. Mohammad 
   
-- **[Task 3: SemEval-2026 Task Proposal: Dimensional Aspect-Based Sentiment Analysis (DimABSA)](https://github.com/DimABSA/DimABSA2026)**
+- **[Task 3: Dimensional Aspect-Based Sentiment Analysis (DimABSA)](https://github.com/DimABSA/DimABSA2026)**
   ([[contact organizers]](mailto:dimabsa-organizers@googlegroups.com),
   [[join task mailing list]](mailto:dimabsa-participants@googlegroups.com))<br>
   Liang-Chih Yu, Shamsuddeen Hassan Muhammad, Lung-Hao Lee, Jin Wang, Jan Philip Wahle, Terry Ruas, Kai-Wei Chang and Saif M. Mohammad 
