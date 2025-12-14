@@ -13,7 +13,7 @@ Welcome to the [SemEval](https://semeval.github.io/)-2026 homepage!
 
 - ~~Task selection notification ~19~ 21 May 2025~~
 - ~~Training Data Ready 2 September 2025~~
-- Evaluation Start [TBD]
+- Evaluation Start 12th January 2026 
 
 All deadlines are 23:59 UTC-12 ("anywhere on Earth").
 
@@ -22,8 +22,8 @@ All deadlines are 23:59 UTC-12 ("anywhere on Earth").
 - ~~Task proposals due 31 March 2025 ([Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth))~~
 - ~~Task selection notification ~19~ 21 May 2025~~
 - ~~Training Data Ready 2 September 2025~~
-- Evaluation data ready (TBD; internal deadline, not for public release)
-- Evaluation start [TBD]
+- Evaluation data ready (December 8th 2025; internal deadline, not for public release)
+- Evaluation start 12th January 2026 
 
 All deadlines are 23:59 UTC-12 ("anywhere on Earth").
 
@@ -70,8 +70,9 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 
 - [Marcos Zampieri](https://www.gmu.edu/profiles/mzampier), George Mason University, USA
 - [Debanjan Ghosh](https://debanjanghosh.github.io), Analog Devices, USA
-- [Kai North], Cambium Assessment, USA
-- [Shervin Malmasi], Amazon Inc., USA
+- [Kai North](https://scholar.google.com/citations?user=fUSUaFUAAAAJ&hl=en), Cambium Assessment, USA
+- [Shervin Malmasi](https://scholar.google.com/citations?hl=en&user=lT1-HZsAAAAJ), Amazon Inc., USA
+- [Ekaterina Kochmar](https://ekochmar.github.io/about/), Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE
 ### Resources
 
 - [Frequently Asked Questions about SemEval](/faq.html)
