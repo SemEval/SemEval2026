@@ -37,7 +37,7 @@ All deadlines are 23:59 UTC-12 ("anywhere on Earth").
 - SemEval workshop July (co-located with ACL 2026)
 
 All deadlines are 23:59 UTC-12 ("anywhere on Earth").
-
+Submission Link: https://www.softconf.com/acl2026/semeval2026/
 <!--
 - ~~The submission webpage is: [SemEval2026 Task Proposal Submission](https://softconf.com/acl2025/semevaltasks/)~~
 --->
