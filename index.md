@@ -15,7 +15,7 @@ Welcome to the [SemEval](https://semeval.github.io/)-2026 homepage!
 - ~~Training Data Ready 2 September 2025~~
 - ~~Evaluation Start 12th January 2026~~ 
 - ~~Evaluation ends 2nd February 2026~~ 
-- System Paper submission due ~2~ 7 March 2026
+- ~~System Paper submission due ~2~ 7 March 2026~~
 - Notification to authors 9 April 2026
 - Camera ready due 30 April 2026
 - SemEval workshop July (co-located with ACL 2026)
@@ -30,8 +30,8 @@ All deadlines are 23:59 UTC-12 ("anywhere on Earth").
 - ~~Evaluation data ready (December 8th 2025; internal deadline, not for public release)~~
 - ~~Evaluation start 12th January 2026~~ 
 - ~~Evaluation ends 2nd February 2026~~ 
-- System Paper submission due ~2~ 7 March 2026
-- Task Paper submission due ~9~ 14 March 2026
+- ~~System Paper submission due ~2~ 7 March 2026~~
+- ~~Task Paper submission due ~9~ 14 March 2026~~
 - Notification to authors 9 April 2026
 - Camera ready due 30 April 2026
 - SemEval workshop July (co-located with ACL 2026)
@@ -80,11 +80,11 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 
 ### Organizers
 
-- [Marcos Zampieri](https://www.gmu.edu/profiles/mzampier), George Mason University, USA
 - [Debanjan Ghosh](https://debanjanghosh.github.io), Analog Devices, USA
 - [Kai North](https://scholar.google.com/citations?user=fUSUaFUAAAAJ&hl=en), Cambium Assessment, USA
-- [Shervin Malmasi](https://scholar.google.com/citations?hl=en&user=lT1-HZsAAAAJ), Amazon Inc., USA
 - [Ekaterina Kochmar](https://ekochmar.github.io/about/), Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE
+- [Marcos Zampieri](https://www.gmu.edu/profiles/mzampier), George Mason University, USA
+- [Shervin Malmasi](https://scholar.google.com/citations?hl=en&user=lT1-HZsAAAAJ), Amazon Inc., USA
 ### Resources
 
 - [Frequently Asked Questions about SemEval](/faq.html)
