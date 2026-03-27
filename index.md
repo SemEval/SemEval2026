@@ -32,6 +32,7 @@ All deadlines are 23:59 UTC-12 ("anywhere on Earth").
 - ~~Evaluation ends 2nd February 2026~~ 
 - ~~System Paper submission due ~2~ 7 March 2026~~
 - ~~Task Paper submission due ~9~ 14 March 2026~~
+- Task Paper review due 31 March 2026
 - Notification to authors 9 April 2026
 - Camera ready due 30 April 2026
 - SemEval workshop July (co-located with ACL 2026)
