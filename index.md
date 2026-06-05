@@ -17,7 +17,7 @@ Welcome to the [SemEval](https://semeval.github.io/)-2026 homepage!
 - ~~Evaluation ends 2nd February 2026~~ 
 - ~~System Paper submission due ~2~ 7 March 2026~~
 - ~~Notification to authors ~9~ 13 April 2026~~
-- Camera ready due ~30 April~ 4 May 2026
+- ~~Camera ready due ~30 April~ 4 May 2026~~
 - SemEval workshop July (co-located with ACL 2026)
 
 All deadlines are 23:59 UTC-12 ("anywhere on Earth").
@@ -34,7 +34,7 @@ All deadlines are 23:59 UTC-12 ("anywhere on Earth").
 - ~~Task Paper submission due ~9~ 14 March 2026~~
 - ~~Task Paper review due 31 March 2026~~
 - ~~Notification to authors ~9~ 13 April 2026~~
-- Camera ready due ~30 April~ 4 May 2026
+- ~~Camera ready due ~30 April~ 4 May 2026~~
 - SemEval workshop July (co-located with ACL 2026)
 
 All deadlines are 23:59 UTC-12 ("anywhere on Earth").
@@ -44,9 +44,9 @@ Submission Link: https://www.softconf.com/acl2026/semeval2026/
 - ~~The submission webpage is: [SemEval2026 Task Proposal Submission](https://softconf.com/acl2025/semevaltasks/)~~
 --->
 
-<!---
-### [SemEval-2026 program](schedule)
---->
+
+## [SemEval-2026 program](schedule)
+
 
 <!-- ### Important dates for task participants
 
