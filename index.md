@@ -85,7 +85,8 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 - [Kai North](https://scholar.google.com/citations?user=fUSUaFUAAAAJ&hl=en), Cambium Assessment, USA
 - [Ekaterina Kochmar](https://ekochmar.github.io/about/), Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE
 - [Marcos Zampieri](https://www.gmu.edu/profiles/mzampier), George Mason University, USA
-- [Shervin Malmasi](https://scholar.google.com/citations?hl=en&user=lT1-HZsAAAAJ), Amazon Inc., USA
+- [Mamoru Komachi](https://scholar.google.com/citations?user=dFPPwwIAAAAJ&hl=en), Hitotsubashi University, Japan
+ 
 ### Resources
 
 - [Frequently Asked Questions about SemEval](/faq.html)
