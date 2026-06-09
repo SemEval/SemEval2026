@@ -113,7 +113,7 @@ Bio: Alex Warstadt is an Assistant Professor in the Halıcıoğlu Data Science I
 - kirito at SemEval-2026 Task 3: Dimensional Aspect-Based Sentiment Analysis via Sentence Structure Parsing Preprocessing and Prompt-Enhanced Instruction Tuning
 - UAlberta at SemEval-2026 Task 5: Disambiguating Stories via Task Decomposition
 - XplaiNLP at SemEval-2026 Task 1: BVAHAHA - Benign Violation Algorithm for Humor and Harmless Absurdity
-
+- PFW at SemEval-2026 Task 6: Multi-Seed DeBERTa Ensembles for Political Response Clarity and Evasion Classification
 
 
 </details>
