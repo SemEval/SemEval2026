@@ -66,6 +66,10 @@ Bio: Alex Warstadt is an Assistant Professor in the Halıcıoğlu Data Science I
 - ZYC at SemEval-2026 Task 5: Application of BERT-based Contextual Embeddings Similarity for WSD
 - VerbaNexAI at SemEval-2026 Task 6: Automatic Detection of Political Evasion through Hierarchical Classification with RoBERTa Large
 - VerbaNexAI at SemEval-2026 Task 7: Integrating Web Snippets and RAG for the Evaluation of Multilingual Cultural Knowledge in LLMs
+- NLPGroup8 at SemEval-2026 Task 2: Diverse Ensembles and Hierarchical Transformers for Emotional State Prediction
+- NTNU-SMIL at SemEval-2026 Task 3: Calibration-Aware Ensemble Learning for Robust Valence–Arousal Prediction in Dimensional Stance Analysis (DimStance)
+
+
 
  <strong>Virtual</strong>
 
@@ -105,7 +109,16 @@ Bio: Alex Warstadt is an Assistant Professor in the Halıcıoğlu Data Science I
 - SemEval-2026 Task 7: Everyday Knowledge Across Diverse Languages and Cultures
 - AFourP at SemEval-2026 Task 2: Predicting Variation in Emotional Valence and Arousal over Time from Ecological Essays
 - SLPG_FJWU_Insa at SemEval-2026 Task 1: Enhancing Linguistic Creativity for English Text-Based Humor
+- UAlberta at SemEval-2026 Task 2: Temporal Fusion Models for Predicting Affect Over Time
+- kirito at SemEval-2026 Task 3: Dimensional Aspect-Based Sentiment Analysis via Sentence Structure Parsing Preprocessing and Prompt-Enhanced Instruction Tuning
+- UAlberta at SemEval-2026 Task 5: Disambiguating Stories via Task Decomposition
+- XplaiNLP at SemEval-2026 Task 1: BVAHAHA - Benign Violation Algorithm for Humor and Harmless Absurdity
+
+
+
 </details>
+
+
 
 
 ### Saturday, July 4th
@@ -134,25 +147,9 @@ Bio: Alex Warstadt is an Assistant Professor in the Halıcıoğlu Data Science I
 - MindMiner at SemEval-2026 Task 10: Multi-Model Approaches to Conspiracy Detection and Psycholinguistic Marker Extraction
 - LATE-iimas at SemEval-2026 Task 10: Conspiracy Detection via DeBERTa-v3 Ensemble and Weighted Loss Optimization
 - AILS-NTUA at SemEval-2026 Task 10: Agentic LLMs for Psycholinguistic Marker Extraction and Conspiracy Endorsement Detection
-- UMUTeam at SemEval-2026 Task 10: Transformer Ensembles for Conspiratorial Span Extraction and Detection
-- HU at SemEval-2026 Task 10: Psycholinguistic Conspiracy Marker Extraction and Detection
-- Truth Gradient at SemEval-2026 Task 10: Mean Pooling and Narrative Density for Conspiracy Belief Detection
-- CredenceAI at SemEval-2026 Task 10: A Span-Consistency Network with Cross-Marker Attention for Conspiracy Marker Extraction
-- CuriosAI at SemEval-2026 Task 10: Hybrid approaches to conspiracy span extraction and conspiracy detection
-- VARH-AI at SemEval-2026 Task 10: Exploiting Architectural Diversity with Transformer-SSM Ensembles and Confidence-Based Iterative Refinement for Conspiracy Detection
-- YNU-HPCC at SemEval-2026 Task 10: Pretrained DistilBERT Models for Conspiracy Marker Extraction and Detection
-- NUST PsyAI at SemEval-2026 Task 10: Parameter-Efficient RoBERTa for Conspiracy Detection and Character-Level Marker Extraction
-- CUET_320 at SemEval-2026 Task 10: Few-Shot Large Language Models for Psycholinguistic Marker Extraction and Conspiracy Detection
-- NJUST_KMG at SemEval 2026 Task 10 PsyCoMark—Subtask 2: Conspiracy Detection
-- wangkongqiang at SemEval-2026 Task 10: PsyCoMark - Psycholinguistic Conspiracy Marker Extraction and Detection
 - FregeLogic at SemEval 2026 Task 11: A Hybrid Neuro-Symbolic Architecture for Content-Robust Syllogistic Validity Prediction
 - GheGheGhe at SemEval-2026 Task 11: Decoupling Logic from Belief with Bias-Targeted Fine-Tuning and Neuro-Symbolic Syllogistic Reasoning
 - Team ewelinaksiez at SemEval-2026 Task 11: Reducing Content Bias in Syllogistic Reasoning via Semantic Abstraction
-- SEF-CLGC at SemEval-2026 Task 11: Logical Notation Impact on Language Model Performance
-- CUET_Luminaries at SemEval-2026 Task 11: Disentangling Logical Validity from Semantic Plausibility through Canonical Abstraction
-- HABIB_TAZ at SemEval-2026 Task 11: Disentangling Formal Logic from Content via Synthetic Training and Multi-Objective Optimization
-- YNU-NLP at SemEval-2026 Task 11: A Neuro-Symbolic Approach with Reflexion Mechanism Disentangling Content and Formal Reasoning in Language Models
-- ITLC at SemEval-2026 Task 11: Normalization and Deterministic Parsing for Formal Reasoning in LLMs
 - UFAL-CUNI at SemEval-2026 Task 11: An Efficient Modular Neuro-symbolic Method for Syllogistic Reasoning
 - CausalMinds at SemEval-2026 Task 12: Simple Fine-Tuning with Option Shuffling Outperforms Complex Pipelines for Abductive Event Reasoning
 - d-itlab at SemEval-2026 Task 12: Per-Option Surprisal and Multi-Stage Gating for Precision-Oriented Causal Reasoning
@@ -161,16 +158,18 @@ Bio: Alex Warstadt is an Assistant Professor in the Halıcıoğlu Data Science I
 - ASTraNet at SemEval-2026 Task 13: Not All Code Looks the Same: Multi-View Structural and Semantic Detection of Machine-Generated Code
 - LATE-IIMAS at SemEval-2026 Task 13: Evaluating GNNs, PLMs, LLMs, and Stylometry for Automatic Code Identification
 - AKCIT at SemEval-2026 Task 13: A Lightweight LightGBM Baseline for Cross-Language Detection of LLM-Generated Code
-- CUET_Luminaries_0227 at SemEval-2026 Task 13: Invariance-Oriented Representation Learning for Robust AI-Generated Code Detection
-- TransformerTrio at SemEval-2026 Task 13: Navigating Domain Shift and Representation Instability in Machine-Generated Code Detection
-- Königsberg at SemEval-2026 Task 13: Beyond Language Models: A Low-Resource Feature-Driven and Data-Flow Embedding Approach for Machine-Generated Code Detection
-- NUST CodeIntel at SemEval-2026 Task 13: Cross-Domain Detection of Machine-Generated Code via Stylometric Features and Transformer Models
-- Team_Omega at SemEval-2026 Task 13: Frozen vs. Trainable Representations for Out-of-Distribution AI-Generated Code Detection: A CodeBERT Fine-Tuning Study
-- MedHastra at SemEval-2026 Task 13: Stylometric Ensembles and Transformer Fine-Tuning for Robust AI Code Detection, Attribution, and Adversarial Analysis
-- YoungDSMLKZ at SemEval-2026 Task 13: MIL-UniXcoder with Meta-Stacking and Handcrafted Features for AI-Generated Code Detection
-- LAFED at SemEval-2026 Task 13: Language-Agnostic Feature Engineering for Cross-Lingual AI-Generated Code Detection
-- CodeDet-NITS at SemEval-2026 Task 13: AI Code Authorship Detection Beyond Truncation
-- Segmentation Fault at SemEval-2026 Task 13: A Regularization-First Approach with Generator-Based Out-of-Distribution Splits for Detecting AI-Generated Code
+- Caraman at SemEval-2026 Task 8: Three-Stage Multi-Turn Retrieval with Query Rewriting, Hybrid Search, and Cross-Encoder Reranking
+- H-RAG at SemEval-2026 Task 8: Hierarchical Parent–Child Retrieval for Multi-Turn RAG Conversations
+- IIMAS-RAG at SemEval-2026 Task 8: Hybrid Sparse-Dense Retrieval and Answerability-Conditioned Generation for Multi-Turn RAG
+- Training-Free Multi-Query Fusion for Robust Conversational Retrieval
+- uva-irlab-conv at SemEval-2026 Task 8: Multi-Turn RAG with Learned Sparse Retrieval and Listwise Reranking
+- AKCIT-UFG at SemEval-2026 Task 8: Structured Chunking and Optimized Query Reformulation for Efficient Multi-Turn Retrieval
+- CYUT at SemEval-2026 Task 9: Monolingual vs. Multilingual LoRA Tuning for Multicultural and Multievent Polarization Detection
+- UTokyo Tsuruoka Lab at SemEval-2026 Task 9: Efficient Single Forward Pass Inference for Multi-Label Polarization Classification
+- NYCU-NLP at SemEval-2026 Task 9: Stacking Small Language Models for Multilingual, Multicultural and Multievent Polarization Detection
+- PSK at SemEval-2026 Task 9: Multilingual Polarization Detection Using Ensemble Gemma Models with Synthetic Data Augmentation
+
+
 
 <strong>Virtual</strong>
 
@@ -219,7 +218,9 @@ Bio: Alex Warstadt is an Assistant Professor in the Halıcıoğlu Data Science I
 - CuriosAI at SemEval-2026 Task 10: Hybrid approaches to conspiracy span extraction and conspiracy detection
 - CUET_320 at SemEval-2026 Task 10: Few-Shot Large Language Models for Psycholinguistic Marker Extraction and Conspiracy Detection
 - YoungDSMLKZ at SemEval-2026 Task 13: MIL-UniXcoder with Meta-Stacking and Handcrafted Features for AI-Generated Code Detection
-
+- PFW Task 8 at SemEval-2026 Task 8: Lightweight Tri-Fusion Retrieval with Prompt-Engineered Faithful Generation for Multi-Turn RAG
+- ShefFriday at SemEval-2026 Task 9: LLM-Based Annotation Methods for Detecting Multilingual, Multicultural and Multievent Online Polarisation
+- zhangpeng at SemEval-2026 Task 10: PsyCoMark - Psycholinguistic Conspiracy Marker Extraction and Detection
 
 
 
