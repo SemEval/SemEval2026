@@ -114,7 +114,9 @@ Bio: Alex Warstadt is an Assistant Professor in the Halıcıoğlu Data Science I
 - UAlberta at SemEval-2026 Task 5: Disambiguating Stories via Task Decomposition
 - XplaiNLP at SemEval-2026 Task 1: BVAHAHA - Benign Violation Algorithm for Humor and Harmless Absurdity
 - PFW at SemEval-2026 Task 6: Multi-Seed DeBERTa Ensembles for Political Response Clarity and Evasion Classification
-
+- MarSan at SemEval-2026 Task 4: Narrative Similarity via Sentence-BERT Metric Learning with Triple-Derived Losses
+- Rating Plausibility of Word Senses in Ambiguous Sentences Using Multi-Architecture Analysis
+- Team HITS at SemEval-2026 Task 4: Enhancing narrative text embedding model training with hard negatives generation and self-distillation
 
 </details>
 
@@ -168,8 +170,10 @@ Bio: Alex Warstadt is an Assistant Professor in the Halıcıoğlu Data Science I
 - UTokyo Tsuruoka Lab at SemEval-2026 Task 9: Efficient Single Forward Pass Inference for Multi-Label Polarization Classification
 - NYCU-NLP at SemEval-2026 Task 9: Stacking Small Language Models for Multilingual, Multicultural and Multievent Polarization Detection
 - PSK at SemEval-2026 Task 9: Multilingual Polarization Detection Using Ensemble Gemma Models with Synthetic Data Augmentation
-
-
+- AILS-NTUA at SemEval-2026 Task 8: Query Diversity via Nested Reciprocal Rank Fusion and Evidence-Guided Agentic Generation for Multi-Turn RAG
+- PolarMind at SemEval-2026 Task 9: Leveraging LaBSE with Progressive Curriculum Learning for Multicultural Polarization
+- SemEval-2026 Task 11: Disentagling Contenta and Formal Reasoning in Large Language Models 
+- GUIR at SemEval-2026 Task 8: Training-Free Multi-Query Fusion for Robust Conversational Retrieval
 
 <strong>Virtual</strong>
 
@@ -221,7 +225,7 @@ Bio: Alex Warstadt is an Assistant Professor in the Halıcıoğlu Data Science I
 - PFW Task 8 at SemEval-2026 Task 8: Lightweight Tri-Fusion Retrieval with Prompt-Engineered Faithful Generation for Multi-Turn RAG
 - ShefFriday at SemEval-2026 Task 9: LLM-Based Annotation Methods for Detecting Multilingual, Multicultural and Multievent Online Polarisation
 - zhangpeng at SemEval-2026 Task 10: PsyCoMark - Psycholinguistic Conspiracy Marker Extraction and Detection
-
+- 
 
 
 
