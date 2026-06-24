@@ -68,8 +68,8 @@ Bio: Alex Warstadt is an Assistant Professor in the Halıcıoğlu Data Science I
 - VerbaNexAI at SemEval-2026 Task 7: Integrating Web Snippets and RAG for the Evaluation of Multilingual Cultural Knowledge in LLMs
 - NLPGroup8 at SemEval-2026 Task 2: Diverse Ensembles and Hierarchical Transformers for Emotional State Prediction
 - NTNU-SMIL at SemEval-2026 Task 3: Calibration-Aware Ensemble Learning for Robust Valence–Arousal Prediction in Dimensional Stance Analysis (DimStance)
-
-
+- AsymVerify at SemEval-2026 Task 6: Asymmetric Confidence-Gated Verification for Political Evasion Detection
+- Duluth at SemEval-2026 Task 6: DeBERTa with LLM-Augmented Data for Unmasking Political Question Evasion
 
  <strong>Virtual</strong>
 
@@ -125,7 +125,7 @@ Bio: Alex Warstadt is an Assistant Professor in the Halıcıoğlu Data Science I
 
 ### Saturday, July 4th
 
-<strong>15:00-15:30 Oral Session III: Tasks 9-13 [12+3 minutes each]</strong>
+<strong>09:00-10:30 Oral Session III: Tasks 9-13 [12+3 minutes each]</strong>
 
 
 <em>10:30-11:00 Coffee break</em>
@@ -174,6 +174,8 @@ Bio: Alex Warstadt is an Assistant Professor in the Halıcıoğlu Data Science I
 - PolarMind at SemEval-2026 Task 9: Leveraging LaBSE with Progressive Curriculum Learning for Multicultural Polarization
 - SemEval-2026 Task 11: Disentagling Contenta and Formal Reasoning in Large Language Models 
 - GUIR at SemEval-2026 Task 8: Training-Free Multi-Query Fusion for Robust Conversational Retrieval
+- VARH-AI at SemEval-2026 Task 10: Exploiting Architectural Diversity with Transformer-SSM Ensembles and Confidence-Based Iterative Refinement for Conspiracy Detection
+
 
 <strong>Virtual</strong>
 
