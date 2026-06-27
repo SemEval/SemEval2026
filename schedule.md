@@ -71,7 +71,7 @@ Bio: Alex Warstadt is an Assistant Professor in the Halıcıoğlu Data Science I
 - AsymVerify at SemEval-2026 Task 6: Asymmetric Confidence-Gated Verification for Political Evasion Detection
 - Duluth at SemEval-2026 Task 6: DeBERTa with LLM-Augmented Data for Unmasking Political Question Evasion
 - Takoyaki at SemEval-2026 Task 3: Ensembling LLM Predictions using Demonstration Retrieval for Dimensional Aspect-based Sentiment Analysis
-
+- CSE-UOI: A Two-Stage Heterogeneous Ensemble with Deliberative Complexity Gating for Political Evasion Detection
  <strong>Virtual</strong>
 
 - blue at SemEval-2026 Task 4: Synergizing Long-Context Reranking with Semantic Similarity for Narrative Alignment
