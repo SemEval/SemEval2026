@@ -72,6 +72,7 @@ Bio: Alex Warstadt is an Assistant Professor in the Halıcıoğlu Data Science I
 - Duluth at SemEval-2026 Task 6: DeBERTa with LLM-Augmented Data for Unmasking Political Question Evasion
 - Takoyaki at SemEval-2026 Task 3: Ensembling LLM Predictions using Demonstration Retrieval for Dimensional Aspect-based Sentiment Analysis
 - CSE-UOI: A Two-Stage Heterogeneous Ensemble with Deliberative Complexity Gating for Political Evasion Detection
+- PUEB-DimASR at SemEval-2026 Task 3: Escaping the Mean Regression Trap with Graph-Enhanced Transformers for Dimensional Aspect-Based Sentiment Regression
  <strong>Virtual</strong>
 
 - blue at SemEval-2026 Task 4: Synergizing Long-Context Reranking with Semantic Similarity for Narrative Alignment
@@ -177,7 +178,7 @@ Bio: Alex Warstadt is an Assistant Professor in the Halıcıoğlu Data Science I
 - GUIR at SemEval-2026 Task 8: Training-Free Multi-Query Fusion for Robust Conversational Retrieval
 - VARH-AI at SemEval-2026 Task 10: Exploiting Architectural Diversity with Transformer-SSM Ensembles and Confidence-Based Iterative Refinement for Conspiracy Detection
 - AILS-NTUA at SemEval-2026 Task 12: Graph-Based Retrieval and Reflective Prompting for Abductive Event Reasoning
-
+- The Counterfactuals at SemEval-2026 Task 9: Can Counterfactually-Inspired Preprocessing help Detect Polarization?
 <strong>Virtual</strong>
 
 - SEF-CLGC at SemEval-2026 Task 11: Logical Notation Impact on Language Model Performance
