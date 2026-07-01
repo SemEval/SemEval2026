@@ -119,7 +119,7 @@ Bio: Alex Warstadt is an Assistant Professor in the Halıcıoğlu Data Science I
 - MarSan at SemEval-2026 Task 4: Narrative Similarity via Sentence-BERT Metric Learning with Triple-Derived Losses
 - Rating Plausibility of Word Senses in Ambiguous Sentences Using Multi-Architecture Analysis
 - Team HITS at SemEval-2026 Task 4: Enhancing narrative text embedding model training with hard negatives generation and self-distillation
-
+- FER at SemEval-2026 Task 6: Analysis of Different Approaches to Unmasking Political Question Evasions
 </details>
 
 
