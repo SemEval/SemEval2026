@@ -127,18 +127,14 @@ Bio: Alex Warstadt is an Assistant Professor in the Halıcıoğlu Data Science I
 
 ### Saturday, July 4th
 
-<strong>09:00-10:30 Oral Session III: Tasks 9-13 [12+3 minutes each]</strong>
-
+<strong>09:00-10:15 Oral Session III: Tasks 9-13 [12+3 minutes each] </strong>
+<details><summary><strong>10:15-10:30 Best Track and System papers announcement</strong></summary>
+</details>
 
 <em>10:30-11:00 Coffee break</em>
 
-<details><summary><strong>11:00-11:10 Oral Session IV: Best Track papers presentation</strong></summary>
-- Best track awards will be notified in advance and announced publicly at the conference.
 
-</details>
-
-<details><summary><strong>11:10-12:30 Oral Session V: Best System papers presentation</strong></summary>
-- Best system awards will be notified in advance and announced publicly at the conference.
+<details><summary><strong>11:00-12:30 Oral Session IV: Best System papers presentation</strong></summary>
 
 </details>
 
