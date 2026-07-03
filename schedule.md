@@ -4,7 +4,7 @@ title: SemEval-2026 Schedule
 
 ## SemEval-2026 Schedule
 
-[SemEval-2026](https://semeval.github.io/SemEval2026/) will be collocated with [ACL 2026](https://2026.aclweb.org/) at The Grand Hyatt Manchester, San Diego.
+[SemEval-2026](https://semeval.github.io/SemEval2026/) will be collocated with [ACL 2026](https://2026.aclweb.org/) at The Grand Hyatt Manchester, San Diego (Room: <strong>Harbor B</strong>).
 
 Online poster sessions will be held on Gather. 
 
@@ -177,6 +177,7 @@ Bio: Alex Warstadt is an Assistant Professor in the Halıcıoğlu Data Science I
 - VARH-AI at SemEval-2026 Task 10: Exploiting Architectural Diversity with Transformer-SSM Ensembles and Confidence-Based Iterative Refinement for Conspiracy Detection
 - AILS-NTUA at SemEval-2026 Task 12: Graph-Based Retrieval and Reflective Prompting for Abductive Event Reasoning
 - The Counterfactuals at SemEval-2026 Task 9: Can Counterfactually-Inspired Preprocessing help Detect Polarization?
+- GUNLP at SemEval-2026 Task 10: Psycholinguistic Conspiracy Marker Extraction and Detection (PsyCoMark)
 
 <strong>Virtual</strong>
 
@@ -228,7 +229,7 @@ Bio: Alex Warstadt is an Assistant Professor in the Halıcıoğlu Data Science I
 - PFW Task 8 at SemEval-2026 Task 8: Lightweight Tri-Fusion Retrieval with Prompt-Engineered Faithful Generation for Multi-Turn RAG
 - ShefFriday at SemEval-2026 Task 9: LLM-Based Annotation Methods for Detecting Multilingual, Multicultural and Multievent Online Polarisation
 - zhangpeng at SemEval-2026 Task 10: PsyCoMark - Psycholinguistic Conspiracy Marker Extraction and Detection
-- 
+
 
 
 
